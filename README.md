@@ -4,6 +4,6 @@ Diabetic retinopathy is a condition suffered by people who have diabeties, which
 
 I propose a novel and efficient method to diagnose retinopathy from retinal fundas images using SVM and KNN algorithms.
 
-We also try out deep learning based solutions with grad cam scores to show the area of interest from the model pov.
+I also try out deep learning based solutions with grad cam scores to show the area of interest from the model pov.
 
 
